@@ -676,6 +676,7 @@ body {
 }
 .model-close{
   position: absolute;
+  padding: 0;
   right: 24px;
   top: 24px;
   width: 24px;
